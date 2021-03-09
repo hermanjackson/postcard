@@ -1,0 +1,15 @@
+.postcard{background-color: white
+    ; width: 400px; height:350px; margin: auto; 
+}
+.postcardhead{ padding: 15px;;height: 70px;display:flex;font-family: 'Handlee', cursive;;}
+.postcardbody{  ;height: 150px;margin-right: 50%; width: 50%;font-family: 'Handlee', cursive;;}
+.postcardleftside{;height:150px; margin-left: 50%; width:50%; position: relative;bottom: 45%;font-family: 'Handlee', cursive;;}
+.postcardhead img{; float: right; ; ;width: 70px; height: 80px;position: relative;top: auto;
+    margin-left: auto;} 
+}
+.postcardrightside td{border: none; display: block;padding: 15px; margin-bottom;: auto;; }
+.postcardfeet{font-family: 'Handlee', cursive;;position: relative;top: 60%;right: 30%;;}
+.letters{padding: 5px;}
+.postcardfeet button{ background-color: grey;}
+body{background-color: black;}
+.somediv table td tr{border: none;}
